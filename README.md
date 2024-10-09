@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nylunn.Nylunn" />
 
 <h1 align="center">
-    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+i'm+Nylun+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+i'm+Nylun+!;" />
 </h1>
 
 <h3 align="center">Un Développeur Web et Web Mobile pasionnée et dynamique.</h3>
