@@ -4,9 +4,8 @@
 
 I'm a French software developer with a background in web development, currently moving toward **DevOps, systems administration and infrastructure**.
 
-I will be joining **SUPINFO Lille** in September 2026 for the third year of its IT program, with a focus on DevOps.
+I will be joining **STUDI** in September 2026 for being DevOps.
 
-I'm currently looking for a **work-study opportunity (alternance)** in DevOps, Systems, Infrastructure or IT Support.
 
 ---
 
@@ -73,15 +72,5 @@ Use of Docker across different projects to create reproducible development envir
 
 ---
 
-## 🎯 Currently looking for
-
-A **work-study position starting September 2026** in:
-
-- DevOps
-- Systems Administration
-- Infrastructure
-- Cloud / SysOps
-- IT Support
-- Deployment
 
 Based in **Hauts-de-France, France**.
